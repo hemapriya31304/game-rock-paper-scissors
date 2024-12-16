@@ -1,0 +1,34 @@
+#container {
+    margin: 100px;
+    padding:20px;
+    border: 20px solid black;   
+    background-color: wheat;
+    height: 320px;
+    width: 700px;
+
+}
+#head {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    
+}
+#score {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    background-color: palevioletred;
+}
+#choices {
+    display: flex;
+    justify-content: center;
+}
+#images {
+    display: flex;
+    justify-content: space-evenly;
+}
+#context-images {
+    display: flex;
+    justify-content: space-evenly;
+    color: blue;
+}
